@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/homework-course-html-css-for-react-dev/static/css/main.e6c13ad2.css",
-    "main.js": "/homework-course-html-css-for-react-dev/static/js/main.cd0518f4.js",
+    "main.js": "/homework-course-html-css-for-react-dev/static/js/main.7dc3515d.js",
     "static/js/787.d4aba7ab.chunk.js": "/homework-course-html-css-for-react-dev/static/js/787.d4aba7ab.chunk.js",
     "static/media/rec.png": "/homework-course-html-css-for-react-dev/static/media/rec.40d7d16cb7357a6f5e3b.png",
     "index.html": "/homework-course-html-css-for-react-dev/index.html",
     "main.e6c13ad2.css.map": "/homework-course-html-css-for-react-dev/static/css/main.e6c13ad2.css.map",
-    "main.cd0518f4.js.map": "/homework-course-html-css-for-react-dev/static/js/main.cd0518f4.js.map",
+    "main.7dc3515d.js.map": "/homework-course-html-css-for-react-dev/static/js/main.7dc3515d.js.map",
     "787.d4aba7ab.chunk.js.map": "/homework-course-html-css-for-react-dev/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cd0518f4.js"
+    "static/js/main.7dc3515d.js"
   ]
 }
