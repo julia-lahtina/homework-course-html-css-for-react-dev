@@ -33,15 +33,16 @@ export default App;
 
 const Box = styled.div`
     width: 300px;
-    height: 350px;
+    height: 365px;
     border-radius: 15px;
     background: #FFF;
     box-shadow: 0px 4px 20px 5px rgba(0, 0, 0, 0.10);
-    margin: 20px 20px;
+    margin: 50px;
 
     button {
         cursor: pointer;
     }
+
 `
 
 
