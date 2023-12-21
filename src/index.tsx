@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import {GlobalStyle} from "./styles/GlobalStyle";
 
 
+
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
